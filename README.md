@@ -9,7 +9,6 @@ Email Me 👉 ✉️ **jainsaum01@gmail.com** For Collaboration/Project or Anyth
 - 📫 **How to reach me:** jainsaum01@gmail.com
 - 😄 **Pronouns:** Her
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Saumya2804&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
