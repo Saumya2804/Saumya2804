@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I'm Saumya Jain
 **A passionate Data Analyst || Product Management || Love to design using Figma**
 
-Email Me 👉 ✉️ **jainsaum@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **jainsaum01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** SQL 30 DAYS Roadmap and Data Science and AI Master 2025 On Udemy
 - 🌱 **I’m currently learning:** SQL || Power BI || AI/ML
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** jainsaum@gmail.com
+- 📫 **How to reach me:** jainsaum01@gmail.com
 - 😄 **Pronouns:** Her
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
